@@ -38,7 +38,7 @@ For a list of commands run `sshmulti.py` with the `-h` or `--help` options.
 
 ## Screenshots
 
-![Logged into multiple devices and typing the same commands once](../../docs/figures/sshmulti.py.1.png)
+![Logged into multiple devices and typing the same commands once](https://raw.githubusercontent.com/toddwint/sshmulti/main/docs/figures/sshmulti.py.1.png)
 
 ## Requirements
 
